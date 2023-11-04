@@ -1,0 +1,58 @@
+---
+openapi: 3.0.0
+info:
+  title: Stats API
+  description: This API provides event stats
+  contact:
+    email: calebsjseeman@gmail.com
+  version: 1.0.0
+paths:
+  /stats:
+    get:
+      summary: Gets the event stats
+      operationId: app.get_stats
+      description: Gets Traded Item and Created Item statistics
+      responses:
+        '200':
+          description: Successfully returned a list of item events
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/ReadingStats'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    ReadingStats:
+      required:
+      - num_items_created
+      - num_trades
+      - max_str_stat
+      - max_dex_stat
+      - max_int_stat
+      properties:
+        num_items_created:
+          type: integer
+          example: 500000
+        num_trades:
+          type: integer
+          example: 500000
+        max_str_stat:
+          type: integer
+          example: 200
+        max_dex_stat:
+          type: integer
+          example: 180
+        max_int_stat:
+          type: integer
+          example: 250
+      type: object

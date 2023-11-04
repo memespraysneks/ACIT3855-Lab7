@@ -1,0 +1,9 @@
+version: 1
+events:
+  hostname: caleblab6a3855.eastus2.cloudapp.azure.com
+  port: 9092
+  topic: events
+eventstore1:
+  url: http://localhost:8090/PathOfExileAPI/item-creation
+eventstore2:
+  url: http://localhost:8090/PathOfExileAPI/trade-item
