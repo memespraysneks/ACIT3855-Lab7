@@ -1,7 +1,6 @@
 import connexion
 import json
 import datetime
-import pymysql
 import yaml
 import datetime
 import logging
