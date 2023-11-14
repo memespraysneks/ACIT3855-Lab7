@@ -1,0 +1,11 @@
+version 1:
+events:
+  hostname: caleblab3855.eastus2.cloudapp.azure.com
+  port: 9092
+  topic: events
+datastore:
+  user: root
+  password: FuckMysql123!
+  hostname: caleblab3855.eastus2.cloudapp.azure.com
+  port: 3306
+  db: events

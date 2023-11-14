@@ -1,0 +1,203 @@
+---
+openapi: 3.0.0
+info:
+  title: Path of Exile Trade API
+  description: This is a API to upload and trade items
+  contact:
+    email: calebsjseeman@gmail.com
+  version: 1.0.0
+servers:
+- url: /
+tags:
+- name: admins
+  description: Secured Admin-only calls
+- name: clients
+  description: Operations available to base user
+paths:
+  /PathOfExileAPI/item-creation:
+    # post:
+    #   tags:
+    #   - clients
+    #   summary: creates a new item
+    #   description: creates a new item object to be stored
+    #   operationId: app.item_creation
+    #   requestBody:
+    #     description: Item to added
+    #     content:
+    #       application/json:
+    #         schema:
+    #           $ref: '#/components/schemas/CreateItem'
+    #   responses:
+    #     "201":
+    #       description: item created
+    #     "400":
+    #       description: "item invalid, check parameters"
+    get:
+      summary: retrieves item creation history
+      operationId: app.get_item_creations
+      description: gets items created after a given timestamp
+      parameters:
+        - name: timestamp
+          in: query
+          description: Limits the number of shown items
+          schema:
+            type: string
+            format: date-time
+            example: 2016-08-29T09:12:33.001Z
+      responses:
+        '200':
+          description: successful retrieval
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/CreateItem'
+        '400':
+          description: invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+  /PathOfExileAPI/trade-item:
+    # post:
+    #   tags:
+    #   - admin
+    #   summary: trades items between players
+    #   description: transfers items between two players collections
+    #   operationId: app.trade
+    #   requestBody:
+    #     description: Parse all data in the trade
+    #     content:
+    #       application/json:
+    #         schema:
+    #           $ref: '#/components/schemas/TradeItem'
+    #   responses:
+    #     "201":
+    #       description: trade accepted
+    #     "400":
+    #       description: trade denied
+    get:
+        summary: retrieves trade history
+        operationId: app.get_trades
+        description: gets trades created after a given timestamp
+        parameters:
+          - name: timestamp
+            in: query
+            description: Limits the number of shown items
+            schema:
+              type: string
+              format: date-time
+              example: 2016-08-29T09:12:33.001Z
+        responses:
+          '200':
+            description: successful retrieval
+            content:
+              application/json:
+                schema:
+                  type: array
+                  items:
+                    $ref: '#/components/schemas/TradeItem'
+          '400':
+            description: invalid request
+            content:
+              application/json:
+                schema:
+                  type: object
+                  properties:
+                    message:
+                      type: string
+components:
+  schemas:
+    CreateItem:
+      required:
+      - user_id
+      - item
+      - timestamp
+      type: object
+      properties:
+        user_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        item:
+          $ref: '#/components/schemas/Item'
+        timestamp:
+          type: string
+          format: date-time
+          example: 2016-08-29T09:12:33.001Z
+    TradeItem:
+      required:
+      - initial_user_id
+      - offer_item
+      - secondary_user_id
+      - timestamp
+      - trade_item
+      - trade_id
+      type: object
+      properties:
+        initial_user_id:
+          type: string
+          format: uuid
+          example: a46cf11f-931f-4542-89b7-12da729a7f0a
+        secondary_user_id:
+          type: string
+          format: uuid
+          example: 7707f660-a050-49b4-8868-2bd4707d7229
+        trade_id:
+          type: string
+          format: uuid
+          example: 4266019c-8292-42c7-8a68-0feb8dd840a0
+        offer_item:
+          $ref: '#/components/schemas/Item'
+        trade_item:
+          $ref: '#/components/schemas/Item'
+        timestamp:
+          type: string
+          format: date-time
+          example: 2016-08-29T09:12:33.001Z
+    User:
+      required:
+      - collection
+      - user_id
+      type: object
+      properties:
+        user_id:
+          type: string
+          format: uuid
+          example: cc8890a0-92fb-4280-b7c9-184af2635c5b
+        collection:
+          type: string
+          example: 03555ef5-4d0e-45ff-8821-46a9008f8c35, cc8890a0-92fb-4280-b7c9-184af2635c5b
+
+    Item:
+      required:
+      - item_id
+      - dexterity
+      - intelligence
+      - strength
+      type: object
+      properties:
+        item_id:
+          type: string
+          format: uuid
+          example: 03555ef5-4d0e-45ff-8821-46a9008f8c35
+        strength:
+          type: integer
+          example: 100
+        dexterity:
+          type: integer
+          example: 250
+        intelligence:
+          type: integer
+          example: 1057
+    Trade:
+      required:
+      - trade_contents
+      properties:
+        trade_contents:
+          type: string
+          example: cc8890a0-92fb-4280-b7c9-184af2635c5b, 100, 200, 300

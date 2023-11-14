@@ -1,0 +1,1086 @@
+2023-10-09 17:13:26,549 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 17:13:31,551 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 17:35:39,847 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 17:35:44,859 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 17:36:42,593 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 17:37:11,634 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 17:39:00,623 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 17:41:55,650 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 17:42:00,654 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:05:16,415 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:05:18,479 - basicLogger - INFO - Retrieved $110 item creations
+2023-10-09 18:05:20,561 - basicLogger - INFO - Retrieved $4 trades
+2023-10-09 18:05:21,408 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:05:23,475 - basicLogger - INFO - Retrieved $110 item creations
+2023-10-09 18:05:25,534 - basicLogger - INFO - Retrieved $4 trades
+2023-10-09 18:13:57,707 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:13:59,777 - basicLogger - INFO - Retrieved 110 item creations
+2023-10-09 18:14:01,830 - basicLogger - INFO - Retrieved 4 trades
+2023-10-09 18:14:01,832 - basicLogger - DEBUG - Updated stats: num_items_created 50110, num_trades 50004, max_str 200, max_dex 180, max_int 250
+2023-10-09 18:14:01,832 - basicLogger - INFO - Ending Periodic Testing
+2023-10-09 18:17:33,995 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:17:36,084 - basicLogger - INFO - Retrieved 110 item creations
+2023-10-09 18:17:38,167 - basicLogger - INFO - Retrieved 4 trades
+2023-10-09 18:17:38,169 - basicLogger - DEBUG - Updated stats: num_items_created 50110, num_trades 50004, max_str 200, max_dex 180, max_int 250
+2023-10-09 18:17:38,170 - basicLogger - INFO - Ending Periodic Testing
+2023-10-09 18:17:39,000 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:17:41,058 - basicLogger - INFO - Retrieved 110 item creations
+2023-10-09 18:17:43,097 - basicLogger - INFO - Retrieved 4 trades
+2023-10-09 18:17:43,098 - basicLogger - DEBUG - Updated stats: num_items_created 50110, num_trades 50004, max_str 200, max_dex 180, max_int 250
+2023-10-09 18:17:43,098 - basicLogger - INFO - Ending Periodic Testing
+2023-10-09 18:18:19,762 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:18:21,821 - basicLogger - INFO - Retrieved 110 item creations
+2023-10-09 18:18:23,882 - basicLogger - INFO - Retrieved 4 trades
+2023-10-09 18:18:23,884 - basicLogger - DEBUG - Updated stats: num_items_created 50110, num_trades 50004, max_str 200, max_dex 180, max_int 250
+2023-10-09 18:18:23,884 - basicLogger - INFO - Ending Periodic Testing
+2023-10-09 18:18:24,775 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:18:26,822 - basicLogger - INFO - Retrieved 110 item creations
+2023-10-09 18:18:28,875 - basicLogger - INFO - Retrieved 4 trades
+2023-10-09 18:18:28,876 - basicLogger - DEBUG - Updated stats: num_items_created 50110, num_trades 50004, max_str 200, max_dex 180, max_int 250
+2023-10-09 18:18:28,877 - basicLogger - INFO - Ending Periodic Testing
+2023-10-09 18:20:07,618 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:20:09,684 - basicLogger - INFO - Retrieved 110 item creations
+2023-10-09 18:20:11,728 - basicLogger - INFO - Retrieved 4 trades
+2023-10-09 18:21:31,829 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:21:33,899 - basicLogger - INFO - Retrieved 110 item creations
+2023-10-09 18:21:35,947 - basicLogger - INFO - Retrieved 4 trades
+2023-10-09 18:21:35,948 - basicLogger - DEBUG - Updated stats: num_items_created 50110, num_trades 50004, max_str 200, max_dex 180, max_int 250
+2023-10-09 18:21:35,949 - basicLogger - INFO - Ending Periodic Testing
+2023-10-09 18:21:36,829 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:21:38,901 - basicLogger - INFO - Retrieved 110 item creations
+2023-10-09 18:21:40,950 - basicLogger - INFO - Retrieved 4 trades
+2023-10-09 18:21:40,951 - basicLogger - DEBUG - Updated stats: num_items_created 50110, num_trades 50004, max_str 200, max_dex 180, max_int 250
+2023-10-09 18:21:40,951 - basicLogger - INFO - Ending Periodic Testing
+2023-10-09 18:22:02,800 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:22:04,845 - basicLogger - INFO - Retrieved 110 item creations
+2023-10-09 18:22:06,915 - basicLogger - INFO - Retrieved 4 trades
+2023-10-09 18:22:06,921 - basicLogger - DEBUG - Updated stats: num_items_created 50110, num_trades 50004, max_str 200, max_dex 180, max_int 250
+2023-10-09 18:22:06,921 - basicLogger - INFO - Ending Periodic Testing
+2023-10-09 18:22:07,796 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:22:09,826 - basicLogger - INFO - Retrieved 110 item creations
+2023-10-09 18:22:11,882 - basicLogger - INFO - Retrieved 4 trades
+2023-10-09 18:22:11,886 - basicLogger - DEBUG - Updated stats: num_items_created 50110, num_trades 50004, max_str 200, max_dex 180, max_int 250
+2023-10-09 18:22:11,886 - basicLogger - INFO - Ending Periodic Testing
+2023-10-09 18:22:58,146 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:23:00,240 - basicLogger - INFO - Retrieved 110 item creations
+2023-10-09 18:23:02,290 - basicLogger - INFO - Retrieved 4 trades
+2023-10-09 18:23:02,292 - basicLogger - DEBUG - Updated stats: num_items_created 50110, num_trades 50004, max_str 200, max_dex 180, max_int 250
+2023-10-09 18:23:02,292 - basicLogger - INFO - Ending Periodic Testing
+2023-10-09 18:23:03,142 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:23:05,210 - basicLogger - INFO - Retrieved 110 item creations
+2023-10-09 18:23:07,269 - basicLogger - INFO - Retrieved 4 trades
+2023-10-09 18:23:07,270 - basicLogger - DEBUG - Updated stats: num_items_created 50110, num_trades 50004, max_str 200, max_dex 180, max_int 250
+2023-10-09 18:23:07,271 - basicLogger - INFO - Ending Periodic Testing
+2023-10-09 18:23:40,499 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:23:42,554 - basicLogger - INFO - Retrieved 110 item creations
+2023-10-09 18:23:44,591 - basicLogger - INFO - Retrieved 4 trades
+2023-10-09 18:25:38,062 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:25:40,115 - basicLogger - INFO - Retrieved 110 item creations
+2023-10-09 18:25:42,157 - basicLogger - INFO - Retrieved 4 trades
+2023-10-09 18:25:43,067 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:25:45,166 - basicLogger - INFO - Retrieved 110 item creations
+2023-10-09 18:25:47,203 - basicLogger - INFO - Retrieved 4 trades
+2023-10-09 18:43:43,662 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:43:45,722 - basicLogger - INFO - Retrieved 1 item creations
+2023-10-09 18:43:47,776 - basicLogger - INFO - Retrieved 1 trades
+2023-10-09 18:43:47,778 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 180, max_int 250
+2023-10-09 18:43:47,778 - basicLogger - INFO - Ending Periodic Testing
+2023-10-09 18:43:48,670 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:43:50,730 - basicLogger - INFO - Retrieved 1 item creations
+2023-10-09 18:43:52,780 - basicLogger - INFO - Retrieved 1 trades
+2023-10-09 18:43:52,782 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 180, max_int 250
+2023-10-09 18:43:52,783 - basicLogger - INFO - Ending Periodic Testing
+2023-10-09 18:44:19,563 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:44:21,638 - basicLogger - INFO - Retrieved 1 item creations
+2023-10-09 18:44:23,685 - basicLogger - INFO - Retrieved 1 trades
+2023-10-09 18:44:23,687 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-09 18:44:23,688 - basicLogger - INFO - Ending Periodic Testing
+2023-10-09 18:44:24,563 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 18:44:26,606 - basicLogger - INFO - Retrieved 1 item creations
+2023-10-09 18:44:28,680 - basicLogger - INFO - Retrieved 1 trades
+2023-10-09 18:44:28,682 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-09 18:44:28,683 - basicLogger - INFO - Ending Periodic Testing
+2023-10-09 19:03:02,775 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 19:03:04,835 - basicLogger - INFO - Retrieved 1 item creations
+2023-10-09 19:03:06,882 - basicLogger - INFO - Retrieved 1 trades
+2023-10-09 19:03:06,884 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-09 19:03:06,885 - basicLogger - INFO - Ending Periodic Testing
+2023-10-09 19:03:07,763 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 19:03:09,824 - basicLogger - ERROR - Failed to retrieve with error code $400
+2023-10-09 19:03:11,876 - basicLogger - ERROR - Failed to retrieve with error code 400
+2023-10-09 19:03:12,761 - basicLogger - INFO - Start Periodic Testing
+2023-10-09 19:03:14,797 - basicLogger - ERROR - Failed to retrieve with error code $400
+2023-10-09 19:03:16,821 - basicLogger - ERROR - Failed to retrieve with error code 400
+2023-10-10 08:34:33,885 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 08:34:35,945 - basicLogger - ERROR - Failed to retrieve with error code $400
+2023-10-10 08:34:37,978 - basicLogger - ERROR - Failed to retrieve with error code 400
+2023-10-10 08:34:38,885 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 08:34:40,920 - basicLogger - ERROR - Failed to retrieve with error code $400
+2023-10-10 08:34:42,950 - basicLogger - ERROR - Failed to retrieve with error code 400
+2023-10-10 08:34:43,880 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 08:34:45,917 - basicLogger - ERROR - Failed to retrieve with error code $400
+2023-10-10 08:34:47,949 - basicLogger - ERROR - Failed to retrieve with error code 400
+2023-10-10 08:35:11,589 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 08:35:13,684 - basicLogger - INFO - Retrieved 1 item creations
+2023-10-10 08:35:15,735 - basicLogger - INFO - Retrieved 1 trades
+2023-10-10 08:35:15,737 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 08:35:15,738 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 08:35:16,590 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 08:35:18,662 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 08:35:20,699 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 08:35:20,701 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 08:35:20,702 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 08:37:10,762 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 08:37:12,824 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 08:37:14,883 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 08:37:14,885 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 08:37:14,886 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 08:37:36,201 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 08:37:38,256 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 08:37:40,313 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 08:37:40,315 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 08:37:40,315 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 08:37:41,208 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 08:37:43,263 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 08:37:45,294 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 08:37:45,296 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 08:37:45,296 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 08:37:46,206 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 08:37:48,264 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 08:37:50,322 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 08:37:50,323 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 08:37:50,324 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:00:03,475 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:00:05,517 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:00:07,579 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:00:07,580 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:00:07,580 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:00:08,478 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:00:10,525 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:00:12,594 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:00:12,595 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:00:12,595 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:00:13,478 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:00:15,531 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:00:17,601 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:00:17,603 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:00:17,604 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:00:18,482 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:00:20,524 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:00:22,577 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:00:22,579 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:00:22,579 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:00:23,472 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:00:25,525 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:00:27,576 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:00:27,577 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:00:27,577 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:00:28,475 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:00:30,500 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:00:32,568 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:00:32,569 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:00:32,570 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:00:33,479 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:00:35,546 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:00:37,603 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:00:37,603 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:00:37,605 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:00:38,486 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:00:40,547 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:00:42,605 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:00:42,608 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:00:42,609 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:00:43,484 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:00:45,551 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:00:47,596 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:00:47,598 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:00:47,599 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:00:48,476 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:00:50,527 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:00:52,577 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:00:52,578 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:00:52,578 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:00:53,482 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:00:55,529 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:00:57,560 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:00:57,561 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:00:57,562 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:00:58,473 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:01:00,538 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:01:02,594 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:01:02,595 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:01:02,596 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:01:03,472 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:01:05,539 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:01:07,605 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:01:07,607 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:01:07,608 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:01:08,470 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:01:10,515 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:01:10,847 - basicLogger - INFO - get_stats requests has started
+2023-10-10 09:01:10,848 - basicLogger - ERROR - No stats currently exist
+2023-10-10 09:01:12,580 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:01:12,580 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:01:12,581 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:01:13,479 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:01:15,544 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:01:17,590 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:01:17,591 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:01:17,592 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:01:18,479 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:01:20,532 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:01:22,584 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:01:22,586 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:01:22,587 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:03:04,017 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:03:05,929 - basicLogger - INFO - get_stats requests has started
+2023-10-10 09:03:06,079 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:03:08,108 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:03:08,109 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:03:08,109 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:03:09,011 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:03:11,056 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:03:13,106 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:03:13,107 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:03:13,108 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:04:50,453 - basicLogger - INFO - get_stats requests has started
+2023-10-10 09:04:50,454 - basicLogger - DEBUG - {'num_items_created': 50001, 'num_trades': 50001, 'max_str': 200, 'max_dex': 250, 'max_int': 1057}
+2023-10-10 09:04:50,455 - basicLogger - INFO - get_stats request completed
+2023-10-10 09:04:50,491 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:04:52,519 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:04:54,567 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:04:54,569 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:04:54,570 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:18:52,319 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:18:54,399 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:18:56,454 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:18:56,455 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:18:56,456 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:18:57,316 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:18:59,395 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:19:01,427 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:19:01,427 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:19:01,428 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:19:02,306 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:19:04,364 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:19:06,413 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:19:06,414 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:19:06,414 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:19:07,309 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:19:09,358 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:19:11,404 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:19:11,406 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:19:11,406 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:19:12,318 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:19:14,378 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:19:16,418 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:19:16,419 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:19:16,419 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:19:17,304 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:19:19,351 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:19:21,410 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:19:21,412 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:19:21,413 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:19:22,304 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:19:24,343 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:19:26,388 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:19:26,390 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:19:26,391 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:19:27,305 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:19:29,362 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:19:31,413 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:19:31,415 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:19:31,416 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:19:32,308 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:19:34,349 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:19:36,396 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:19:36,397 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:19:36,398 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:19:37,312 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:19:39,368 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:19:41,419 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:19:41,421 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:19:41,422 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:19:42,318 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:19:44,357 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:19:46,400 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:19:46,401 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:19:46,402 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:19:47,316 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:19:49,375 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:19:51,392 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:19:51,394 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:19:51,395 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:19:52,305 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:19:54,380 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:19:56,428 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:19:56,429 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:19:56,430 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:19:57,308 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:19:59,375 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:20:01,412 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:20:01,414 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:20:01,414 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:20:02,316 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:20:04,348 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:20:06,398 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:20:06,399 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:20:06,399 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:20:07,313 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:20:09,356 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:20:11,417 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:20:11,419 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:20:11,419 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:20:12,316 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:20:14,383 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:20:16,424 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:20:16,425 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:20:16,425 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:20:17,314 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:20:19,347 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:20:21,405 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:20:21,406 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:20:21,406 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:20:22,314 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:20:24,364 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:20:26,405 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:20:26,407 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:20:26,407 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:20:27,315 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:20:29,383 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:20:31,427 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:20:31,429 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:20:31,429 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:20:32,308 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:20:34,353 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:20:36,413 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:20:36,413 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:20:36,414 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:20:37,308 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:20:39,370 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:20:41,425 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:20:41,426 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:20:41,427 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:20:42,311 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:20:44,360 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:20:46,403 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:20:46,404 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:20:46,404 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:20:47,313 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:20:49,368 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:20:51,415 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:20:51,417 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:20:51,418 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:20:52,317 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:20:54,372 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:20:56,433 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:20:56,434 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:20:56,434 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:20:57,319 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:20:59,382 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:21:01,429 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:21:01,430 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:21:01,430 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:21:02,314 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:21:04,364 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:21:06,402 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:21:06,403 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:21:06,403 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:21:07,312 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:21:09,357 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:21:11,390 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:21:11,392 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:21:11,392 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:21:12,316 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:21:14,371 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:21:16,431 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:21:16,433 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:21:16,434 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:21:17,309 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:21:19,368 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:21:21,413 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:21:21,415 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:21:21,415 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:21:22,308 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:21:24,365 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:21:26,413 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:21:26,415 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:21:26,416 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:21:27,313 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:21:29,360 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:21:31,394 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:21:31,395 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:21:31,395 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:21:32,331 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:21:34,411 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:21:36,436 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:21:36,438 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:21:36,438 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:21:37,315 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:21:39,378 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:21:41,428 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:21:41,430 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:21:41,430 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:21:42,315 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:21:44,358 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:21:46,376 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:21:46,376 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:21:46,376 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:21:47,305 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:21:49,369 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:21:51,413 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:21:51,415 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:21:51,415 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:21:52,309 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:21:52,597 - basicLogger - INFO - get_stats requests has started
+2023-10-10 09:21:52,598 - basicLogger - DEBUG - {'num_items_created': 50001, 'num_trades': 50001, 'max_str': 200, 'max_dex': 250, 'max_int': 1057}
+2023-10-10 09:21:52,598 - basicLogger - INFO - get_stats request completed
+2023-10-10 09:21:54,378 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:21:56,424 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:21:56,426 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:21:56,427 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:21:57,318 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:21:58,221 - basicLogger - INFO - get_stats requests has started
+2023-10-10 09:21:58,222 - basicLogger - DEBUG - {'num_items_created': 50001, 'num_trades': 50001, 'max_str': 200, 'max_dex': 250, 'max_int': 1057}
+2023-10-10 09:21:58,222 - basicLogger - INFO - get_stats request completed
+2023-10-10 09:21:59,369 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:22:01,403 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:22:01,404 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:22:01,405 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:22:02,316 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:22:04,363 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:22:06,394 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:22:06,396 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:22:06,396 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:22:07,317 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:22:09,378 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:22:11,434 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:22:11,434 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:22:11,435 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:22:11,466 - basicLogger - INFO - get_stats requests has started
+2023-10-10 09:22:11,472 - basicLogger - DEBUG - {'num_items_created': 50001, 'num_trades': 50001, 'max_str': 200, 'max_dex': 250, 'max_int': 1057}
+2023-10-10 09:22:11,472 - basicLogger - INFO - get_stats request completed
+2023-10-10 09:22:12,318 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:22:14,346 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:22:16,402 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:22:16,404 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:22:16,404 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:22:17,316 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:22:19,399 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:22:21,445 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:22:21,446 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:22:21,446 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:22:22,314 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:22:24,370 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:22:26,437 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:22:26,438 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:22:26,439 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:22:27,317 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:22:29,391 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:22:31,431 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:22:31,431 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:22:31,432 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:22:32,303 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:22:34,353 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:22:36,412 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:22:36,414 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:22:36,414 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:22:37,307 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:22:39,361 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:22:41,401 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:22:41,402 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:22:41,402 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:22:42,308 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:22:44,381 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:22:46,429 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:22:46,430 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:22:46,431 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:22:47,310 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:22:49,362 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:22:51,416 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:22:51,416 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:22:51,416 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:23:08,116 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:23:10,183 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:23:12,245 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:23:12,247 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:23:12,247 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:23:13,127 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:23:15,203 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:23:17,267 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:23:17,269 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:23:17,269 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:23:18,117 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:23:20,165 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:23:22,195 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:23:22,196 - basicLogger - DEBUG - Updated stats: num_items_created 50001, num_trades 50001, max_str 200, max_dex 250, max_int 1057
+2023-10-10 09:23:22,196 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:25:32,848 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:25:34,901 - basicLogger - INFO - Retrieved 101 item creations
+2023-10-10 09:25:36,958 - basicLogger - INFO - Retrieved 101 trades
+2023-10-10 09:25:36,959 - basicLogger - DEBUG - Updated stats: num_items_created 50101, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 09:25:36,959 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:25:37,853 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:25:39,887 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:25:41,917 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:25:41,918 - basicLogger - DEBUG - Updated stats: num_items_created 50101, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 09:25:41,918 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:25:42,841 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:25:44,886 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:25:46,942 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:25:46,943 - basicLogger - DEBUG - Updated stats: num_items_created 50101, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 09:25:46,944 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:25:47,842 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:25:49,882 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:25:51,924 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:25:51,925 - basicLogger - DEBUG - Updated stats: num_items_created 50101, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 09:25:51,926 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:25:52,842 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:25:54,909 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:25:56,964 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:25:56,966 - basicLogger - DEBUG - Updated stats: num_items_created 50101, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 09:25:56,966 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:25:57,844 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:25:59,923 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:26:01,958 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:26:01,959 - basicLogger - DEBUG - Updated stats: num_items_created 50101, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 09:26:01,960 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:26:02,850 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:26:04,919 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:26:06,938 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:26:06,939 - basicLogger - DEBUG - Updated stats: num_items_created 50101, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 09:26:06,939 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:26:07,852 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:26:09,893 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:26:11,942 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:26:11,944 - basicLogger - DEBUG - Updated stats: num_items_created 50101, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 09:26:11,944 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:26:12,854 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:26:14,905 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:26:16,938 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:26:16,940 - basicLogger - DEBUG - Updated stats: num_items_created 50101, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 09:26:16,940 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:26:17,854 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:26:19,914 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:26:21,947 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:26:21,949 - basicLogger - DEBUG - Updated stats: num_items_created 50101, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 09:26:21,949 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:39:55,546 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:39:57,606 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:39:59,660 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:39:59,661 - basicLogger - DEBUG - Updated stats: num_items_created 50101, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 09:39:59,661 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:40:00,549 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:40:02,622 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:40:04,682 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:40:04,683 - basicLogger - DEBUG - Updated stats: num_items_created 50101, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 09:40:04,684 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:40:05,548 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:40:07,611 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:40:09,660 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:40:09,660 - basicLogger - DEBUG - Updated stats: num_items_created 50101, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 09:40:09,661 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 09:40:10,544 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 09:40:12,605 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 09:40:14,656 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 09:40:14,657 - basicLogger - DEBUG - Updated stats: num_items_created 50101, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 09:40:14,658 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:15:58,690 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:16:00,778 - basicLogger - INFO - Retrieved 102 item creations
+2023-10-10 10:16:02,815 - basicLogger - INFO - Retrieved 101 trades
+2023-10-10 10:16:02,816 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:16:02,816 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:16:03,705 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:16:05,751 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:16:07,792 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:16:07,794 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:16:07,794 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:16:08,696 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:16:10,744 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:16:12,795 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:16:12,798 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:16:12,799 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:16:13,692 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:16:15,755 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:16:17,804 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:16:17,805 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:16:17,805 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:16:18,697 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:16:20,757 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:16:22,785 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:16:22,787 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:16:22,787 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:16:23,697 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:16:25,758 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:16:27,837 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:16:27,838 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:16:27,839 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:16:28,698 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:16:30,740 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:16:32,789 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:16:32,791 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:16:32,791 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:16:33,703 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:16:35,737 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:16:37,780 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:16:37,782 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:16:37,782 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:16:38,700 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:16:40,740 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:16:42,782 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:16:42,784 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:16:42,784 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:18:46,011 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:18:48,079 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:18:50,146 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:18:50,147 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:18:50,148 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:18:51,007 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:18:53,073 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:18:55,132 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:18:55,134 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:18:55,134 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:19:32,805 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:19:34,902 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:19:36,970 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:19:36,971 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:19:36,971 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:19:37,812 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:19:39,859 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:19:41,916 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:19:41,917 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:19:41,918 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:21:16,059 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:21:18,116 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:21:20,184 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:21:20,186 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:21:20,187 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:21:21,065 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:21:23,115 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:21:25,179 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:21:25,181 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:21:25,181 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:26:00,722 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:26:02,770 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:26:04,806 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:26:04,806 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:26:04,806 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:26:18,233 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:26:20,293 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:26:22,332 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:26:22,332 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:26:22,332 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:26:23,232 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:26:25,295 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:26:27,348 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:26:27,349 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:26:27,350 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:26:55,627 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:26:57,729 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:26:59,792 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:26:59,793 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:26:59,794 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:27:00,619 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:27:02,658 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:27:04,730 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:27:04,732 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:27:04,733 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:28:22,001 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:28:24,076 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:28:26,119 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:28:26,120 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:28:26,120 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:28:27,000 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:28:29,063 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:28:31,103 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:28:31,103 - basicLogger - DEBUG - Updated stats: num_items_created 50102, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:28:31,103 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:28:32,000 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:28:34,062 - basicLogger - INFO - Retrieved 1 item creations
+2023-10-10 10:28:36,102 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:28:36,104 - basicLogger - DEBUG - Updated stats: num_items_created 50103, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:28:36,104 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:29:14,023 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:29:16,074 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:29:18,117 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:29:18,119 - basicLogger - DEBUG - Updated stats: num_items_created 50103, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:29:18,120 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:29:19,009 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:29:21,057 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:29:23,110 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:29:23,111 - basicLogger - DEBUG - Updated stats: num_items_created 50103, num_trades 50101, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:29:23,112 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:29:24,019 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:29:26,071 - basicLogger - INFO - Retrieved 3 item creations
+2023-10-10 10:29:28,110 - basicLogger - INFO - Retrieved 3 trades
+2023-10-10 10:29:28,111 - basicLogger - DEBUG - Updated stats: num_items_created 50106, num_trades 50104, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:29:28,111 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:29:29,021 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:29:31,064 - basicLogger - INFO - Retrieved 6 item creations
+2023-10-10 10:29:33,117 - basicLogger - INFO - Retrieved 6 trades
+2023-10-10 10:29:33,118 - basicLogger - DEBUG - Updated stats: num_items_created 50112, num_trades 50110, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:29:33,119 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:29:34,010 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:29:36,063 - basicLogger - INFO - Retrieved 6 item creations
+2023-10-10 10:29:38,121 - basicLogger - INFO - Retrieved 6 trades
+2023-10-10 10:29:38,123 - basicLogger - DEBUG - Updated stats: num_items_created 50118, num_trades 50116, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:29:38,123 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:29:39,014 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:29:41,063 - basicLogger - INFO - Retrieved 3 item creations
+2023-10-10 10:29:43,109 - basicLogger - INFO - Retrieved 6 trades
+2023-10-10 10:29:43,109 - basicLogger - DEBUG - Updated stats: num_items_created 50121, num_trades 50122, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:29:43,109 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:29:44,025 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:29:46,078 - basicLogger - INFO - Retrieved 5 item creations
+2023-10-10 10:29:48,147 - basicLogger - INFO - Retrieved 8 trades
+2023-10-10 10:29:48,148 - basicLogger - DEBUG - Updated stats: num_items_created 50126, num_trades 50130, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:29:48,148 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:29:49,015 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:29:51,086 - basicLogger - INFO - Retrieved 6 item creations
+2023-10-10 10:29:53,140 - basicLogger - INFO - Retrieved 7 trades
+2023-10-10 10:29:53,141 - basicLogger - DEBUG - Updated stats: num_items_created 50132, num_trades 50137, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:29:53,142 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:29:54,018 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:29:56,073 - basicLogger - INFO - Retrieved 6 item creations
+2023-10-10 10:29:58,136 - basicLogger - INFO - Retrieved 6 trades
+2023-10-10 10:29:58,137 - basicLogger - DEBUG - Updated stats: num_items_created 50138, num_trades 50143, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:29:58,138 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:29:59,014 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:30:01,079 - basicLogger - INFO - Retrieved 5 item creations
+2023-10-10 10:30:03,118 - basicLogger - INFO - Retrieved 6 trades
+2023-10-10 10:30:03,119 - basicLogger - DEBUG - Updated stats: num_items_created 50143, num_trades 50149, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:30:03,119 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:30:04,017 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:30:06,085 - basicLogger - INFO - Retrieved 3 item creations
+2023-10-10 10:30:08,157 - basicLogger - INFO - Retrieved 6 trades
+2023-10-10 10:30:08,158 - basicLogger - DEBUG - Updated stats: num_items_created 50146, num_trades 50155, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:30:08,159 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:30:09,021 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:30:11,058 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:30:13,127 - basicLogger - INFO - Retrieved 3 trades
+2023-10-10 10:30:13,128 - basicLogger - DEBUG - Updated stats: num_items_created 50146, num_trades 50158, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:30:13,129 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:30:14,014 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:30:16,086 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:30:18,130 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:30:18,132 - basicLogger - DEBUG - Updated stats: num_items_created 50146, num_trades 50158, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:30:18,133 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:30:19,016 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:30:21,051 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:30:23,102 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:30:23,104 - basicLogger - DEBUG - Updated stats: num_items_created 50146, num_trades 50158, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:30:23,105 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:30:24,015 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:30:26,087 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:30:28,140 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:30:28,141 - basicLogger - DEBUG - Updated stats: num_items_created 50146, num_trades 50158, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:30:28,142 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:30:29,023 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:30:31,094 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:30:33,161 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:30:33,162 - basicLogger - DEBUG - Updated stats: num_items_created 50146, num_trades 50158, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:30:33,162 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:30:34,011 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:30:36,051 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:30:38,106 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:30:38,107 - basicLogger - DEBUG - Updated stats: num_items_created 50146, num_trades 50158, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:30:38,107 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:30:39,020 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:30:41,087 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:30:43,123 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:30:43,124 - basicLogger - DEBUG - Updated stats: num_items_created 50146, num_trades 50158, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:30:43,124 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:30:44,019 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:30:46,087 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:30:48,137 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:30:48,138 - basicLogger - DEBUG - Updated stats: num_items_created 50146, num_trades 50158, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:30:48,138 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:30:49,018 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:30:51,082 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:30:53,127 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:30:53,127 - basicLogger - DEBUG - Updated stats: num_items_created 50146, num_trades 50158, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:30:53,129 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:30:54,013 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:30:56,067 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:30:58,095 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:30:58,096 - basicLogger - DEBUG - Updated stats: num_items_created 50146, num_trades 50158, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:30:58,097 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:33:25,846 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:33:27,924 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:33:29,960 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:33:29,961 - basicLogger - DEBUG - Updated stats: num_items_created 50000, num_trades 50000, max_str 200, max_dex 180, max_int 250
+2023-10-10 10:33:29,961 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:33:30,848 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:33:32,893 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:33:34,374 - basicLogger - INFO - get_stats requests has started
+2023-10-10 10:33:34,375 - basicLogger - DEBUG - {'num_items_created': 50000, 'num_trades': 50000, 'max_str': 200, 'max_dex': 180, 'max_int': 250}
+2023-10-10 10:33:34,375 - basicLogger - INFO - get_stats request completed
+2023-10-10 10:33:34,941 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:33:34,942 - basicLogger - DEBUG - Updated stats: num_items_created 50000, num_trades 50000, max_str 200, max_dex 180, max_int 250
+2023-10-10 10:33:34,942 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:33:35,849 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:33:37,908 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:33:39,949 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:33:39,950 - basicLogger - DEBUG - Updated stats: num_items_created 50000, num_trades 50000, max_str 200, max_dex 180, max_int 250
+2023-10-10 10:33:39,951 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:33:40,859 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:33:42,929 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:33:44,985 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:33:44,987 - basicLogger - DEBUG - Updated stats: num_items_created 50000, num_trades 50000, max_str 200, max_dex 180, max_int 250
+2023-10-10 10:33:44,987 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:33:45,844 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:33:47,896 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:33:49,931 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:33:49,932 - basicLogger - DEBUG - Updated stats: num_items_created 50000, num_trades 50000, max_str 200, max_dex 180, max_int 250
+2023-10-10 10:33:49,932 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:33:50,844 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:33:52,908 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:33:54,954 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:33:54,955 - basicLogger - DEBUG - Updated stats: num_items_created 50000, num_trades 50000, max_str 200, max_dex 180, max_int 250
+2023-10-10 10:33:54,955 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:33:55,843 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:33:57,916 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:33:59,959 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:33:59,960 - basicLogger - DEBUG - Updated stats: num_items_created 50000, num_trades 50000, max_str 200, max_dex 180, max_int 250
+2023-10-10 10:33:59,960 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:34:00,845 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:34:02,905 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:34:04,951 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:34:04,953 - basicLogger - DEBUG - Updated stats: num_items_created 50000, num_trades 50000, max_str 200, max_dex 180, max_int 250
+2023-10-10 10:34:04,954 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:34:05,846 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:34:07,925 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:34:09,988 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:34:09,990 - basicLogger - DEBUG - Updated stats: num_items_created 50000, num_trades 50000, max_str 200, max_dex 180, max_int 250
+2023-10-10 10:34:09,991 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:34:25,674 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:34:27,747 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:34:29,802 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:34:29,803 - basicLogger - DEBUG - Updated stats: num_items_created 0, num_trades 0, max_str 200, max_dex 180, max_int 250
+2023-10-10 10:34:29,803 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:34:30,670 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:34:31,379 - basicLogger - INFO - get_stats requests has started
+2023-10-10 10:34:31,380 - basicLogger - DEBUG - {'num_items_created': 0, 'num_trades': 0, 'max_str': 200, 'max_dex': 180, 'max_int': 250}
+2023-10-10 10:34:31,380 - basicLogger - INFO - get_stats request completed
+2023-10-10 10:34:32,737 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:34:34,792 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:34:34,794 - basicLogger - DEBUG - Updated stats: num_items_created 0, num_trades 0, max_str 200, max_dex 180, max_int 250
+2023-10-10 10:34:34,794 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:34:35,674 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:34:37,728 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:34:39,769 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:34:39,771 - basicLogger - DEBUG - Updated stats: num_items_created 0, num_trades 0, max_str 200, max_dex 180, max_int 250
+2023-10-10 10:34:39,771 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:34:40,681 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:34:42,741 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:34:44,791 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:34:44,793 - basicLogger - DEBUG - Updated stats: num_items_created 0, num_trades 0, max_str 200, max_dex 180, max_int 250
+2023-10-10 10:34:44,794 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:34:45,682 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:34:47,766 - basicLogger - INFO - Retrieved 10 item creations
+2023-10-10 10:34:49,828 - basicLogger - INFO - Retrieved 10 trades
+2023-10-10 10:34:49,829 - basicLogger - DEBUG - Updated stats: num_items_created 10, num_trades 10, max_str 91617, max_dex 96098, max_int 87302
+2023-10-10 10:34:49,830 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:34:50,673 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:34:52,760 - basicLogger - INFO - Retrieved 20 item creations
+2023-10-10 10:34:54,820 - basicLogger - INFO - Retrieved 20 trades
+2023-10-10 10:34:54,821 - basicLogger - DEBUG - Updated stats: num_items_created 30, num_trades 30, max_str 91617, max_dex 96098, max_int 87302
+2023-10-10 10:34:54,821 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:34:55,671 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:34:57,732 - basicLogger - INFO - Retrieved 15 item creations
+2023-10-10 10:34:59,793 - basicLogger - INFO - Retrieved 24 trades
+2023-10-10 10:34:59,794 - basicLogger - DEBUG - Updated stats: num_items_created 45, num_trades 54, max_str 96615, max_dex 97270, max_int 96887
+2023-10-10 10:34:59,795 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:35:00,681 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:35:02,738 - basicLogger - INFO - Retrieved 20 item creations
+2023-10-10 10:35:04,798 - basicLogger - INFO - Retrieved 30 trades
+2023-10-10 10:35:04,799 - basicLogger - DEBUG - Updated stats: num_items_created 65, num_trades 84, max_str 99432, max_dex 97270, max_int 96887
+2023-10-10 10:35:04,799 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:35:05,669 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:35:07,755 - basicLogger - INFO - Retrieved 20 item creations
+2023-10-10 10:35:09,801 - basicLogger - INFO - Retrieved 24 trades
+2023-10-10 10:35:09,802 - basicLogger - DEBUG - Updated stats: num_items_created 85, num_trades 108, max_str 99432, max_dex 97270, max_int 96887
+2023-10-10 10:35:09,802 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:35:10,682 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:35:12,725 - basicLogger - INFO - Retrieved 20 item creations
+2023-10-10 10:35:14,783 - basicLogger - INFO - Retrieved 20 trades
+2023-10-10 10:35:14,784 - basicLogger - DEBUG - Updated stats: num_items_created 105, num_trades 128, max_str 99432, max_dex 97270, max_int 96887
+2023-10-10 10:35:14,784 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:35:15,674 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:35:17,737 - basicLogger - INFO - Retrieved 17 item creations
+2023-10-10 10:35:19,786 - basicLogger - INFO - Retrieved 20 trades
+2023-10-10 10:35:19,787 - basicLogger - DEBUG - Updated stats: num_items_created 122, num_trades 148, max_str 99432, max_dex 97270, max_int 96887
+2023-10-10 10:35:19,788 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:35:20,676 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:35:22,749 - basicLogger - INFO - Retrieved 16 item creations
+2023-10-10 10:35:24,791 - basicLogger - INFO - Retrieved 26 trades
+2023-10-10 10:35:24,792 - basicLogger - DEBUG - Updated stats: num_items_created 138, num_trades 174, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:35:24,792 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:35:25,682 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:35:27,747 - basicLogger - INFO - Retrieved 10 item creations
+2023-10-10 10:35:29,820 - basicLogger - INFO - Retrieved 20 trades
+2023-10-10 10:35:29,821 - basicLogger - DEBUG - Updated stats: num_items_created 148, num_trades 194, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:35:29,821 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:35:30,677 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:35:32,736 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:35:34,787 - basicLogger - INFO - Retrieved 2 trades
+2023-10-10 10:35:34,787 - basicLogger - DEBUG - Updated stats: num_items_created 148, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:35:34,787 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:35:35,670 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:35:37,735 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:35:39,802 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:35:39,804 - basicLogger - DEBUG - Updated stats: num_items_created 148, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:35:39,804 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:35:40,681 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:35:42,759 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:35:44,830 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:35:44,832 - basicLogger - DEBUG - Updated stats: num_items_created 148, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:35:44,833 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:35:45,679 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:35:47,729 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:35:49,793 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:35:49,794 - basicLogger - DEBUG - Updated stats: num_items_created 148, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:35:49,795 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:35:50,673 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:35:52,744 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:35:54,020 - basicLogger - INFO - get_stats requests has started
+2023-10-10 10:35:54,021 - basicLogger - DEBUG - {'num_items_created': 148, 'num_trades': 196, 'max_str': 99432, 'max_dex': 97270, 'max_int': 99465}
+2023-10-10 10:35:54,021 - basicLogger - INFO - get_stats request completed
+2023-10-10 10:35:54,811 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:35:54,812 - basicLogger - DEBUG - Updated stats: num_items_created 148, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:35:54,812 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:35:55,681 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:35:57,739 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:35:59,795 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:35:59,797 - basicLogger - DEBUG - Updated stats: num_items_created 148, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:35:59,797 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:36:00,682 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:36:02,732 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:36:04,798 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:36:04,800 - basicLogger - DEBUG - Updated stats: num_items_created 148, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:36:04,801 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:36:05,677 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:36:07,758 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:36:09,801 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:36:09,803 - basicLogger - DEBUG - Updated stats: num_items_created 148, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:36:09,804 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:36:10,679 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:36:12,741 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:36:14,800 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:36:14,801 - basicLogger - DEBUG - Updated stats: num_items_created 148, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:36:14,801 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:36:15,676 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:36:17,753 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:36:19,812 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:36:19,813 - basicLogger - DEBUG - Updated stats: num_items_created 148, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:36:19,813 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:36:20,680 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:36:22,738 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:36:24,791 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:36:24,792 - basicLogger - DEBUG - Updated stats: num_items_created 148, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:36:24,792 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:36:25,680 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:36:27,749 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:36:29,793 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:36:29,794 - basicLogger - DEBUG - Updated stats: num_items_created 148, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:36:29,794 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:36:30,678 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:36:32,734 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:36:34,794 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:36:34,795 - basicLogger - DEBUG - Updated stats: num_items_created 148, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:36:34,795 - basicLogger - INFO - Ending Periodic Testing
+2023-10-10 10:36:35,670 - basicLogger - INFO - Start Periodic Testing
+2023-10-10 10:36:37,743 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-10 10:36:39,792 - basicLogger - INFO - Retrieved 0 trades
+2023-10-10 10:36:39,794 - basicLogger - DEBUG - Updated stats: num_items_created 148, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-10 10:36:39,794 - basicLogger - INFO - Ending Periodic Testing
+2023-10-16 20:55:56,299 - basicLogger - INFO - Start Periodic Testing
+2023-10-16 20:55:59,546 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-16 20:56:01,833 - basicLogger - INFO - Retrieved 0 trades
+2023-10-16 20:56:01,833 - basicLogger - DEBUG - Updated stats: num_items_created 148, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-16 20:56:01,833 - basicLogger - INFO - Ending Periodic Testing
+2023-10-16 20:56:06,304 - basicLogger - INFO - Start Periodic Testing
+2023-10-16 20:56:08,572 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-16 20:56:10,819 - basicLogger - INFO - Retrieved 0 trades
+2023-10-16 20:56:10,834 - basicLogger - DEBUG - Updated stats: num_items_created 148, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-16 20:56:10,834 - basicLogger - INFO - Ending Periodic Testing
+2023-10-16 20:56:11,293 - basicLogger - INFO - Start Periodic Testing
+2023-10-16 20:56:13,553 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-16 20:56:15,813 - basicLogger - INFO - Retrieved 0 trades
+2023-10-16 20:56:15,813 - basicLogger - DEBUG - Updated stats: num_items_created 148, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-16 20:56:15,814 - basicLogger - INFO - Ending Periodic Testing
+2023-10-16 20:56:16,293 - basicLogger - INFO - Start Periodic Testing
+2023-10-16 20:56:18,549 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-16 20:56:20,819 - basicLogger - INFO - Retrieved 0 trades
+2023-10-16 20:56:20,820 - basicLogger - DEBUG - Updated stats: num_items_created 148, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-16 20:56:20,820 - basicLogger - INFO - Ending Periodic Testing
+2023-10-16 20:56:21,302 - basicLogger - INFO - Start Periodic Testing
+2023-10-16 20:56:23,584 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-16 20:56:25,908 - basicLogger - INFO - Retrieved 0 trades
+2023-10-16 20:56:25,909 - basicLogger - DEBUG - Updated stats: num_items_created 148, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-16 20:56:25,909 - basicLogger - INFO - Ending Periodic Testing
+2023-10-16 20:56:26,300 - basicLogger - INFO - Start Periodic Testing
+2023-10-16 20:56:28,929 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-16 20:56:31,552 - basicLogger - INFO - Retrieved 0 trades
+2023-10-16 20:56:31,553 - basicLogger - DEBUG - Updated stats: num_items_created 148, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-16 20:56:31,553 - basicLogger - INFO - Ending Periodic Testing
+2023-10-16 20:56:36,294 - basicLogger - INFO - Start Periodic Testing
+2023-10-16 20:56:38,558 - basicLogger - INFO - Retrieved 1 item creations
+2023-10-16 20:56:40,821 - basicLogger - INFO - Retrieved 0 trades
+2023-10-16 20:56:40,821 - basicLogger - DEBUG - Updated stats: num_items_created 149, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-16 20:56:40,821 - basicLogger - INFO - Ending Periodic Testing
+2023-10-16 20:56:41,292 - basicLogger - INFO - Start Periodic Testing
+2023-10-16 20:56:43,541 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-16 20:56:45,793 - basicLogger - INFO - Retrieved 0 trades
+2023-10-16 20:56:45,793 - basicLogger - DEBUG - Updated stats: num_items_created 149, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-16 20:56:45,793 - basicLogger - INFO - Ending Periodic Testing
+2023-10-16 20:56:46,297 - basicLogger - INFO - Start Periodic Testing
+2023-10-16 20:56:48,600 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-16 20:56:50,865 - basicLogger - INFO - Retrieved 0 trades
+2023-10-16 20:56:50,867 - basicLogger - DEBUG - Updated stats: num_items_created 149, num_trades 196, max_str 99432, max_dex 97270, max_int 99465
+2023-10-16 20:56:50,868 - basicLogger - INFO - Ending Periodic Testing
+2023-10-16 20:56:51,303 - basicLogger - INFO - Start Periodic Testing
+2023-10-16 20:56:53,567 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-16 20:56:55,852 - basicLogger - INFO - Retrieved 1 trades
+2023-10-16 20:56:55,852 - basicLogger - DEBUG - Updated stats: num_items_created 149, num_trades 197, max_str 99432, max_dex 97270, max_int 99465
+2023-10-16 20:56:55,852 - basicLogger - INFO - Ending Periodic Testing
+2023-10-16 20:56:56,292 - basicLogger - INFO - Start Periodic Testing
+2023-10-16 20:56:58,545 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-16 20:57:00,817 - basicLogger - INFO - Retrieved 1 trades
+2023-10-16 20:57:00,817 - basicLogger - DEBUG - Updated stats: num_items_created 149, num_trades 198, max_str 99432, max_dex 97270, max_int 99465
+2023-10-16 20:57:00,817 - basicLogger - INFO - Ending Periodic Testing
+2023-10-16 20:57:01,289 - basicLogger - INFO - Start Periodic Testing
+2023-10-16 20:57:03,553 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-16 20:57:05,799 - basicLogger - INFO - Retrieved 0 trades
+2023-10-16 20:57:05,799 - basicLogger - DEBUG - Updated stats: num_items_created 149, num_trades 198, max_str 99432, max_dex 97270, max_int 99465
+2023-10-16 20:57:05,799 - basicLogger - INFO - Ending Periodic Testing
+2023-10-16 20:57:06,303 - basicLogger - INFO - Start Periodic Testing
+2023-10-16 20:57:08,561 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-16 20:57:10,828 - basicLogger - INFO - Retrieved 0 trades
+2023-10-16 20:57:10,828 - basicLogger - DEBUG - Updated stats: num_items_created 149, num_trades 198, max_str 99432, max_dex 97270, max_int 99465
+2023-10-16 20:57:10,828 - basicLogger - INFO - Ending Periodic Testing
+2023-10-16 20:57:11,299 - basicLogger - INFO - Start Periodic Testing
+2023-10-16 20:57:13,561 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-16 20:57:15,836 - basicLogger - INFO - Retrieved 0 trades
+2023-10-16 20:57:15,837 - basicLogger - DEBUG - Updated stats: num_items_created 149, num_trades 198, max_str 99432, max_dex 97270, max_int 99465
+2023-10-16 20:57:15,837 - basicLogger - INFO - Ending Periodic Testing
+2023-10-16 20:57:16,304 - basicLogger - INFO - Start Periodic Testing
+2023-10-16 20:57:18,585 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-16 20:57:20,878 - basicLogger - INFO - Retrieved 0 trades
+2023-10-16 20:57:20,880 - basicLogger - DEBUG - Updated stats: num_items_created 149, num_trades 198, max_str 99432, max_dex 97270, max_int 99465
+2023-10-16 20:57:20,880 - basicLogger - INFO - Ending Periodic Testing
+2023-10-16 20:57:21,298 - basicLogger - INFO - Start Periodic Testing
+2023-10-16 20:57:23,592 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-16 20:57:25,864 - basicLogger - INFO - Retrieved 0 trades
+2023-10-16 20:57:25,866 - basicLogger - DEBUG - Updated stats: num_items_created 149, num_trades 198, max_str 99432, max_dex 97270, max_int 99465
+2023-10-16 20:57:25,866 - basicLogger - INFO - Ending Periodic Testing
+2023-10-16 20:57:26,299 - basicLogger - INFO - Start Periodic Testing
+2023-10-16 20:57:28,580 - basicLogger - INFO - Retrieved 0 item creations
+2023-10-16 20:57:30,852 - basicLogger - INFO - Retrieved 0 trades
+2023-10-16 20:57:30,852 - basicLogger - DEBUG - Updated stats: num_items_created 149, num_trades 198, max_str 99432, max_dex 97270, max_int 99465
+2023-10-16 20:57:30,852 - basicLogger - INFO - Ending Periodic Testing
+2023-10-16 20:57:31,291 - basicLogger - INFO - Start Periodic Testing
+2023-10-16 20:57:36,290 - basicLogger - INFO - Start Periodic Testing
+2023-10-16 20:57:41,299 - basicLogger - INFO - Start Periodic Testing
+2023-10-16 20:57:46,299 - basicLogger - INFO - Start Periodic Testing
+2023-10-16 20:57:51,295 - basicLogger - INFO - Start Periodic Testing

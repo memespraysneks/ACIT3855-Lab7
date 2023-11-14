@@ -1,0 +1,8 @@
+version: 1
+datastore:
+  filename: data.json
+scheduler:
+  period_sec: 5
+eventstore:
+  url1: http://localhost:8090/PathOfExileAPI/item-creation
+  url2: http://localhost:8090/PathOfExileAPI/trade-item
