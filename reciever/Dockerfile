@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:latest
 LABEL maintainer="cseeman@my.bcit.ca"
 RUN apt-get update -y
 RUN apt-get install -y python3 python3-pip
