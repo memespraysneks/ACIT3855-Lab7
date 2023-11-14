@@ -1,8 +1,6 @@
 import connexion
 import json
 import datetime
-import sqlalchemy
-import requests
 import yaml
 import logging
 import logging.config
