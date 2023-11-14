@@ -1,6 +1,6 @@
 version: 1
 events:
-  hostname: caleblab6a3855.eastus2.cloudapp.azure.com
+  hostname: caleblab3855.eastus2.cloudapp.azure.com
   port: 9092
   topic: events
 eventstore1:
