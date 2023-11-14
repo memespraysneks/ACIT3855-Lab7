@@ -7,12 +7,9 @@ import logging
 import logging.config
 import requests
 from apscheduler.schedulers.background import BackgroundScheduler
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
 # from base import Base
 # from item_creation import CreateItem
 # from trade_item import TradeItem
-from connexion import NoContent
 
 
 with open('app_conf.yml', 'r') as f:
