@@ -4,6 +4,7 @@ import logging.config
 import json
 import connexion
 from pykafka import KafkaClient
+from flask_cors import CORS, cross_origin
 
 
 with open('app_conf.yml', 'r') as fs:
@@ -64,6 +65,8 @@ def get_trade_item(index):
     return { "message": "Not Found"}, 404
 
 app = connexion.FlaskApp(__name__, specification_dir='')
+CORS(app.app)
+app.app.config['CORS_HEADERS'] = 'Content-Type'
 app.add_api("openapi.yml", strict_validation = True, validate_responses = True)
 
 if __name__ == "__main__":
