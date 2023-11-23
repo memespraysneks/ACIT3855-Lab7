@@ -45,6 +45,8 @@ def get_trade_item(index):
     client = KafkaClient(hosts=hostname)
     topic = client.topics[str.encode(app_config["events"]["topic"])]
     consumer = topic.get_simple_consumer(reset_offset_on_start=True, consumer_timeout_ms=1000)
+    for msg in consumer:
+        print (msg)
     logger.info("Retrieving traded item at index %d" % index)
     try:
         message_count = 0
@@ -63,7 +65,7 @@ def get_trade_item(index):
     except:
         logger.error("No more messages found")
         logger.error("Could not find traded item at index %d" % index)
-    return { "message": message_count}, 404
+    return { "message": f"{message_count}"}, 404
 
 app = connexion.FlaskApp(__name__, specification_dir='')
 CORS(app.app)
