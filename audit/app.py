@@ -21,12 +21,13 @@ def get_item_creation(index):
     client = KafkaClient(hosts=hostname)
     topic = client.topics[str.encode(app_config["events"]["topic"])]
     consumer = topic.get_simple_consumer(reset_offset_on_start=True, consumer_timeout_ms=1000)
-    logger.info("Retrieving BP at index %d" % index)
+    logger.info("Retrieving item creation at index %d" % index)
     try:
         message_count = 0
         for msg in consumer:
             msg_str = msg.value.decode('utf-8')
             msg = json.loads(msg_str)
+            return msg
             if msg["type"] == "item_creation":
                 if message_count == index:
                     return {"message": msg}, 200
@@ -45,7 +46,7 @@ def get_trade_item(index):
     client = KafkaClient(hosts=hostname)
     topic = client.topics[str.encode(app_config["events"]["topic"])]
     consumer = topic.get_simple_consumer(reset_offset_on_start=True, consumer_timeout_ms=1000)
-    logger.info("Retrieving BP at index %d" % index)
+    logger.info("Retrieving traded item at index %d" % index)
     try:
         message_count = 0
         for msg in consumer:
