@@ -27,7 +27,6 @@ def get_item_creation(index):
         for msg in consumer:
             msg_str = msg.value.decode('utf-8')
             msg = json.loads(msg_str)
-            return msg
             if msg["type"] == "item_creation":
                 if message_count == index:
                     return {"message": msg}, 200
