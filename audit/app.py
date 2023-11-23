@@ -38,7 +38,7 @@ def get_item_creation(index):
     except:
         logger.error("No more messages found")
         logger.error("Could not find BP at index %d" % index)
-    return { "message": "Not Found"}, 404
+    return { "message": f"{message_count}"}, 404
 
 def get_trade_item(index):
     hostname = "%s:%d" % (app_config["events"]["hostname"],app_config["events"]["port"])
