@@ -51,7 +51,6 @@ def get_trade_item(index):
         for msg in consumer:
             msg_str = msg.value.decode('utf-8')
             msg = json.loads(msg_str)
-            print(msg["type"])
             if msg["type"] == "trade_item":
                 if message_count == index:
                     return {"message": msg}, 200
