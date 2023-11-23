@@ -62,7 +62,7 @@ def get_trade_item(index):
     except:
         logger.error("No more messages found")
         logger.error("Could not find BP at index %d" % index)
-    return { "message": "Not Found"}, 404
+    return { "message": message_count}, 404
 
 app = connexion.FlaskApp(__name__, specification_dir='')
 CORS(app.app)
