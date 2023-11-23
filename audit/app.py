@@ -37,7 +37,7 @@ def get_item_creation(index):
             # i.e., return event, 200
     except:
         logger.error("No more messages found")
-        logger.error("Could not find BP at index %d" % index)
+        logger.error("Could not find item creation at index %d" % index)
     return { "message": f"{message_count}"}, 404
 
 def get_trade_item(index):
@@ -55,13 +55,14 @@ def get_trade_item(index):
                 if message_count == index:
                     return {"message": msg}, 200
                 else:
-                    message_count += 1
+                    pass
+            message_count += 1
             # Find the event at the index you want and
             # return code 200
             # i.e., return event, 200
     except:
         logger.error("No more messages found")
-        logger.error("Could not find BP at index %d" % index)
+        logger.error("Could not find traded item at index %d" % index)
     return { "message": message_count}, 404
 
 app = connexion.FlaskApp(__name__, specification_dir='')
