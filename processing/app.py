@@ -93,7 +93,7 @@ def get_stats():
     try:
         with open(app_config["datastore"]["filename"], "r") as fs:
             json_object = json.load(fs)
-        return_dict = {"num_items_created": json_object['num_items_created'], "num_trades": json_object['num_trades'], "max_str": json_object['max_str'], "max_dex": json_object['max_dex'], "max_int": json_object['max_int']}
+        return_dict = {"num_items_created": json_object['num_items_created'], "num_trades": json_object['num_trades'], "max_str": json_object['max_str'], "max_dex": json_object['max_dex'], "max_int": json_object['max_int'], "last_updated": json_object['last_updated']}
         logger.debug(return_dict)
         logger.info("get_stats request completed")
         return return_dict, 200
