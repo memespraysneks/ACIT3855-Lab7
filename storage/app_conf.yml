@@ -9,3 +9,5 @@ datastore:
   hostname: caleblab3855.eastus2.cloudapp.azure.com
   port: 3306
   db: events
+  max_retries: 10
+  sleep_time: 1
