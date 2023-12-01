@@ -2,6 +2,7 @@ import connexion
 import json
 import datetime
 import pymysql
+import time
 import yaml
 import datetime
 import logging
@@ -15,7 +16,7 @@ from connexion import NoContent
 from pykafka import KafkaClient
 from pykafka.common import OffsetType
 from threading import Thread
-
+from sqlalchemy import and_
 
 with open('app_conf.yml', 'r') as fs:
     app_config = yaml.safe_load(fs.read())
@@ -80,28 +81,30 @@ logger = logging.getLogger('basicLogger')
 
 #     return NoContent, 201
 
-def get_item_creations(timestamp):
+def get_item_creations(start_timestamp, end_timestamp):
     """ Gets new item creations after the timestamp """
     session = DB_SESSION()
-    timestamp_datetime = datetime.datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
-    readings = session.query(CreateItem).filter(CreateItem.date_created >= timestamp_datetime)
+    start_timestamp_datetime = datetime.datetime.strptime(start_timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%S")
+    readings = session.query(CreateItem).filter(and_(CreateItem.date_created >= start_timestamp_datetime, CreateItem.date_created < end_timestamp_datetime))
     results_list = []
     for reading in readings:
         results_list.append(reading.to_dict())
     session.close()
-    logger.info("Query for Item Creations after %s returns %d results" % (timestamp, len(results_list)))
+    logger.info("Query for Item Creations after %s returns %d results" % (start_timestamp, len(results_list)))
     return results_list, 200
 
-def get_trades(timestamp):
+def get_trades(start_timestamp, end_timestamp):
     """ Gets new trades after the timestamp """
     session = DB_SESSION()
-    timestamp_datetime = datetime.datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
-    readings = session.query(TradeItem).filter(TradeItem.date_created >= timestamp_datetime)
+    start_timestamp_datetime = datetime.datetime.strptime(start_timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%S")
+    readings = session.query(TradeItem).filter(and_(TradeItem.date_created >= start_timestamp_datetime, TradeItem.date_created < end_timestamp_datetime))
     results_list = []
     for reading in readings:
         results_list.append(reading.to_dict())
     session.close()
-    logger.info("Query for Trades after %s returns %d results" % (timestamp, len(results_list)))
+    logger.info("Query for Trades after %s returns %d results" % (start_timestamp, len(results_list)))
     return results_list, 200
 
 app = connexion.FlaskApp(__name__, specification_dir='')
@@ -109,8 +112,16 @@ app.add_api("CALEBSJSEEMAN-PathOfExileAPI-1.0.0-resolved.yaml", strict_validatio
 
 def process_messages():
     hostname = "%s:%d" % (app_config["events"]["hostname"],app_config["events"]["port"])
-    client = KafkaClient(hosts=hostname)
-    topic = client.topics[str.encode(app_config["events"]["topic"])]
+    current_retry = 0
+    while current_retry <= app_config["datastore"]["max_retries"]:
+        try:
+            client = KafkaClient(hosts=hostname)
+            topic = client.topics[str.encode(app_config["events"]["topic"])]
+        except:
+            logger.error("Connecting to Kafka Client has failed trying again")
+            time.sleep(app_config["datastore"]["sleep_time"])
+
+        current_retry += 1
     consumer = topic.get_simple_consumer(consumer_group=b'event_group',reset_offset_on_start=False,auto_offset_reset=OffsetType.LATEST)
     for msg in consumer:
         msg_str = msg.value.decode('utf-8')

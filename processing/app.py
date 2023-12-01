@@ -45,15 +45,15 @@ def populate_stats():
         max_dex = 180
         max_int = 250
         last_updated = "2016-08-29T09:12:33Z"
-    timestamp = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
-    response_item_creations = requests.get(url=app_config['eventstore']['url1'], params={"timestamp": last_updated})
+    current_timestamp = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
+    response_item_creations = requests.get(url=app_config['eventstore']['url1'], params={"start_timestamp": last_updated, "end_timestamp": current_timestamp})
     item_creations_string = response_item_creations.content.decode('utf-8')
     response_item_creations_list = json.loads(item_creations_string)
     if response_item_creations.status_code == 200:
         logger.info(f"Retrieved {len(response_item_creations_list)} item creations")
     else:
         logger.error(f"Failed to retrieve with error code ${response_item_creations.status_code}")
-    response_trades = requests.get(url=app_config['eventstore']['url2'], params={"timestamp": last_updated})
+    response_trades = requests.get(url=app_config['eventstore']['url2'], params={"start_timestamp": last_updated, "end_timestamp": current_timestamp})
     trades_string = response_trades.content.decode('utf-8')
     response_trades_list = json.loads(trades_string)
     if response_item_creations.status_code == 200:
@@ -82,7 +82,7 @@ def populate_stats():
             max_dex = item['trade_item']['intelligence']
     num_items_created += len(response_item_creations_list)
     num_trades += len(response_trades_list)
-    updated_stats = {"num_items_created": num_items_created, "num_trades": num_trades, "max_str": max_str, "max_dex": max_dex, "max_int": max_int, "last_updated": timestamp}
+    updated_stats = {"num_items_created": num_items_created, "num_trades": num_trades, "max_str": max_str, "max_dex": max_dex, "max_int": max_int, "last_updated": current_timestamp}
     with open(app_config["datastore"]["filename"], "w") as fs:
         json.dump(updated_stats, fs)
     logger.debug(f"Updated stats: num_items_created {num_items_created}, num_trades {num_trades}, max_str {max_str}, max_dex {max_dex}, max_int {max_int}")
