@@ -37,7 +37,8 @@ paths:
       operationId: app.get_item_creations
       description: gets items created after a given timestamp
       parameters:
-        - name: timestamp
+        - name: start_timestamp
+        - name: end_timestamp
           in: query
           description: Limits the number of shown items
           schema:
@@ -85,7 +86,8 @@ paths:
         operationId: app.get_trades
         description: gets trades created after a given timestamp
         parameters:
-          - name: timestamp
+          - name: start_timestamp
+          - name: end_timestamp
             in: query
             description: Limits the number of shown items
             schema:
