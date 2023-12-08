@@ -38,6 +38,11 @@ paths:
       description: gets items created after a given timestamp
       parameters:
         - name: start_timestamp
+          in: query
+          schema:
+            type: string
+            format: date-time
+            example: 2016-08-29T09:12:33.001Z
         - name: end_timestamp
           in: query
           description: Limits the number of shown items
@@ -87,6 +92,11 @@ paths:
         description: gets trades created after a given timestamp
         parameters:
           - name: start_timestamp
+            in: query
+            schema:
+              type: string
+              format: date-time
+              example: 2016-08-29T09:12:33.001Z
           - name: end_timestamp
             in: query
             description: Limits the number of shown items
