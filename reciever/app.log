@@ -1762,6 +1762,3 @@
 2023-10-17 10:42:43,487 - basicLogger - INFO - Returned event trade-item response (id: 2023-10-17 10:42:43.016206)
 2023-10-17 10:42:43,581 - basicLogger - INFO - Returned event trade-item response (id: 2023-10-17 10:42:43.109599)
 2023-10-17 10:42:43,612 - basicLogger - INFO - Returned event trade-item response (id: 2023-10-17 10:42:43.141990)
-2023-11-14 09:49:10,370 - basicLogger - INFO - Recieved event item-creation request with trace id 2023-11-14 09:49:10.370001
-2023-11-14 09:51:54,322 - basicLogger - INFO - Recieved event item-creation request with trace id 2023-11-14 09:51:54.322863
-2023-11-14 09:51:54,902 - basicLogger - INFO - Returned event item-creation response (id: 2023-11-14 09:51:54.322863)

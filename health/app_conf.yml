@@ -1,0 +1,9 @@
+datastore:
+  filename: healthstats.json
+eventstore:
+  reciever: http://caleblab3855.eastus2.cloudapp.azure.com:8080/health
+  storage: http://caleblab3855.eastus2.cloudapp.azure.com:8090/health
+  processing: http://caleblab3855.eastus2.cloudapp.azure.com:8100/health
+  audit: http://caleblab3855.eastus2.cloudapp.azure.com:8110/health
+scheduler:
+  period_sec: 20

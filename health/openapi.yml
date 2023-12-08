@@ -1,0 +1,41 @@
+---
+openapi: 3.0.0
+info:
+  title: Health API
+  description: This API provides event stats
+  contact:
+    email: calebsjseeman@gmail.com
+  version: 1.0.0
+paths:
+  /health:
+    get:
+      summary: returns services
+      operationId: app.get_health
+      description: Gets the health state of the services
+      responses:
+        "200":
+          description: Healthy service
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  reciever:
+                    type: string
+                  storage:
+                    type: string
+                  processing:
+                    type: string
+                  audit:
+                    type: string
+                  last_updated:
+                    type: string
+        "400":
+          description: failed to find
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string

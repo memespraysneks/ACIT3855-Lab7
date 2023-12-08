@@ -4,33 +4,21 @@ import datetime
 import yaml
 import logging
 import logging.config
-import os
 from connexion import NoContent
 from pykafka import KafkaClient
 
 
-if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
-    print("In Test Environment")
-    app_conf_file = "/config/app_conf.yml"
-    log_conf_file = "/config/log_conf.yml"
-else:
-    print("In Dev Environment")
-    app_conf_file = "app_conf.yml"
-    log_conf_file = "log_conf.yml"
+with open('app_conf.yml', 'r') as fs:
+    app_config = yaml.safe_load(fs.read())
 
-with open(app_conf_file, 'r') as f:
-    app_config = yaml.safe_load(f.read())
-
-with open(log_conf_file, 'r') as f:
+with open('log_conf.yml', 'r') as f:
     log_config = yaml.safe_load(f.read())
     logging.config.dictConfig(log_config)
 
 logger = logging.getLogger('basicLogger')
 
-logger.info("App Conf File: %s" % app_conf_file)
-logger.info("Log Conf File: %s" % log_conf_file)
-
 def item_creation(body):
+    
     trace_id = str(datetime.datetime.now())
     body['trace_id'] = trace_id
     logger.info(f'Recieved event item-creation request with trace id {trace_id}')
@@ -40,11 +28,15 @@ def item_creation(body):
     msg = {"type": "item_creation", "datetime" : datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S"), "payload": body} 
     msg_str = json.dumps(msg) 
     producer.produce(msg_str.encode('utf-8'))
+    
+    
     # response = requests.post(url=app_config['eventstore1']['url'], json=body)
     logger.info(f'Returned event item-creation response (id: {trace_id})')
     return NoContent, 201
 
 def trade(body):
+    
+    
     trace_id = str(datetime.datetime.now())
     body['trace_id'] = trace_id
     logger.info(f'Recieved event trade-item request with trace id {trace_id}')
