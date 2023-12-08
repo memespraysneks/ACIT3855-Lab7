@@ -85,7 +85,7 @@ def get_item_creations(start_timestamp, end_timestamp):
     """ Gets new item creations after the timestamp """
     session = DB_SESSION()
     start_timestamp_datetime = datetime.datetime.strptime(start_timestamp, "%Y-%m-%dT%H:%M:%SZ")
-    end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%S")
+    end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%SZ")
     readings = session.query(CreateItem).filter(and_(CreateItem.date_created >= start_timestamp_datetime, CreateItem.date_created < end_timestamp_datetime))
     results_list = []
     for reading in readings:
@@ -98,7 +98,7 @@ def get_trades(start_timestamp, end_timestamp):
     """ Gets new trades after the timestamp """
     session = DB_SESSION()
     start_timestamp_datetime = datetime.datetime.strptime(start_timestamp, "%Y-%m-%dT%H:%M:%SZ")
-    end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%S")
+    end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%SZ")
     readings = session.query(TradeItem).filter(and_(TradeItem.date_created >= start_timestamp_datetime, TradeItem.date_created < end_timestamp_datetime))
     results_list = []
     for reading in readings:
