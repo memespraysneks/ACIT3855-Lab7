@@ -29,6 +29,7 @@ export default function AppStats() {
     } else if (isLoaded === false){
         return(<div>Loading...</div>)
     } else if (isLoaded === true){
+        console.log(stats['num_items_created'])
         return(
             <div>
                 <h1>Latest Stats</h1>
@@ -43,13 +44,13 @@ export default function AppStats() {
 							<td># IT: {stats['num_trades']}</td>
 						</tr>
 						<tr>
-							<td colspan="2">Max Strength: {stats['max_str']}</td>
+							<td colSpan="2">Max Strength: {stats['max_str']}</td>
 						</tr>
 						<tr>
-							<td colspan="2">Max Dexterity: {stats['max_dex']}</td>
+							<td colSpan="2">Max Dexterity: {stats['max_dex']}</td>
 						</tr>
 						<tr>
-							<td colspan="2">Max Intelligence: {stats['max_int']}</td>
+							<td colSpan="2">Max Intelligence: {stats['max_int']}</td>
 						</tr>
 					</tbody>
                 </table>
