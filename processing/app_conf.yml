@@ -4,5 +4,5 @@ datastore:
 scheduler:
   period_sec: 5
 eventstore:
-  url1: http://localhost:8090/PathOfExileAPI/item-creation
-  url2: http://localhost:8090/PathOfExileAPI/trade-item
+  url1: http://caleblab3855.eastus2.cloudapp.azure.com:8090/PathOfExileAPI/item-creation
+  url2: http://caleblab3855.eastus2.cloudapp.azure.com:8090/PathOfExileAPI/trade-item
