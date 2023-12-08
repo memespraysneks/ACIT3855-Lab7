@@ -61,6 +61,7 @@ def populate_stats():
     else:
         logger.error(f"Failed to retrieve with error code {response_trades.status_code}")
     for item in response_item_creations_list:
+        print(item['item']['strength'])
         if item['item']['strength'] > max_str:
             max_str = item['item']['strength']
         if item['item']['dexterity'] > max_dex:
