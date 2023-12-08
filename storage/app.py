@@ -129,6 +129,7 @@ def process_messages():
         try:
             client = KafkaClient(hosts=hostname)
             topic = client.topics[str.encode(app_config["events"]["topic"])]
+            producer = topic.get_sync_producer()
         except:
             logger.error("Connecting to Kafka Client has failed trying again")
             time.sleep(app_config["datastore"]["sleep_time"])
