@@ -3,6 +3,7 @@ import json
 import datetime
 import yaml
 import datetime
+import os
 import logging
 import logging.config
 import requests
@@ -12,7 +13,6 @@ from flask_cors import CORS, cross_origin
 # from item_creation import CreateItem
 # from trade_item import TradeItem
 
-
 with open('app_conf.yml', 'r') as f:
     app_config = yaml.safe_load(f.read())
 
@@ -21,6 +21,17 @@ with open('log_conf.yml', 'r') as f:
     logging.config.dictConfig(log_config)
 
 logger = logging.getLogger('basicLogger')
+
+file_path = app_config["datastore"]["filename"]
+
+if not os.path.exists(file_path):
+    logger.info(f"File not found at {file_path} creating new file")
+    initial_stats = {"num_items_created" : 0, "num_trades" : 0, "max_str" : 200 , "max_dex" : 180 , "max_int" : 250 , "last_updated" : "2016-08-29T09:12:33Z"}
+    with open(file_path, "w") as fs:
+        json.dump(initial_stats, fs)
+        logger.info("Json file created")
+else:
+    logger.info(f"File found at {file_path}")
 
 def init_scheduler():
     sched = BackgroundScheduler(daemon=True)
